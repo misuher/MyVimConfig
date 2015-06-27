@@ -7,6 +7,9 @@
 [submodule "bundle/emmet-vim"]
         path = bundle/emmet-vim
         url = https://github.com/mattn/emmet-vim.git
+[submodule "bundle/gundo.vim"]
+        path = bundle/gundo.vim
+        url = https://github.com/sjl/gundo.vim.git
 [submodule "bundle/nerdtree"]
         path = bundle/nerdtree
         url = https://github.com/scrooloose/nerdtree.git
